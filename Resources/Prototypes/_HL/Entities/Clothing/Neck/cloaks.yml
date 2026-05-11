@@ -14,7 +14,7 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakCERULCore
-  name: Cerulean Core Shroud
+  name: Cerulean core shroud
   description: A cloak intended for cores of the Cerulean Collective.
   components:
   - type: Sprite
