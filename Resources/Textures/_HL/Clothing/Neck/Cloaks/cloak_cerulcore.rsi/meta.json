@@ -13,6 +13,10 @@
     {
       "name": "equipped-NECK",
       "directions": 4
+    },
+    {
+      "name": "equipped-NECK-avali",
+      "directions": 4
     }
   ]
 }
